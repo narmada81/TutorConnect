@@ -1,5 +1,5 @@
 
-  # EdTech Platform Development
+  # EdTech Platform - TutorConnect Development
 
   This is a code bundle for EdTech Platform Development. The original project is available at https://www.figma.com/design/mPjhiTRJAd3mV4hrsz26jV/EdTech-Platform-Development.
 
